@@ -27,7 +27,7 @@ The commits never stop. We’re constantly pushing new updates and starting proj
 
 Want to learn with us, get support, or see what’s being pushed to main today?
 
-[**Join the Discord**](https://discord.septy-studios.ome)
+[**Join the Discord**](https://discord.septy-studios.one)
 
 ---
 
